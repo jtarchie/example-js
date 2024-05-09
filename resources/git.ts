@@ -5,7 +5,7 @@ interface Options {
 
 class GitWrapper {
   check(): string {
-    return ""
+    return "";
   }
 }
 

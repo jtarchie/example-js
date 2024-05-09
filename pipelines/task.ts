@@ -8,7 +8,7 @@ interface Options {
 
 class Task {
   execute(): boolean {
-    return true
+    return true;
   }
 }
 

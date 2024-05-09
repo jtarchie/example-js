@@ -7,7 +7,7 @@ interface Options {
 
 class Get {
   execute(): boolean {
-    return true
+    return true;
   }
 }
 
